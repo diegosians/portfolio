@@ -31,6 +31,11 @@ h1{
     animation-duration: 2s;
 }
 
+#tasto{
+    height: 30px;
+    
+    outline: auto;
+}
 
 .buffer{
     height: 10rem;
